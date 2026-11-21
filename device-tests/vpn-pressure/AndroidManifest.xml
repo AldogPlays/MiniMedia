@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="local.minimedia.sdmcpressure">
+    <uses-sdk android:minSdkVersion="26" android:targetSdkVersion="30" />
+    <application android:label="Temporary VPN resilience test" android:allowBackup="false" android:largeHeap="true" android:theme="@android:style/Theme.Material.NoActionBar">
+        <activity android:name=".PressureActivity" android:exported="true" android:screenOrientation="landscape" />
+    </application>
+</manifest>

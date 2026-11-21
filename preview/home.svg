@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#181818"/>
+  <g font-family="Monaspace Neon, monospace" fill="#eeeeee">
+    <text x="44" y="47" font-size="15">minimedia</text>
+    <text x="916" y="47" font-size="15" text-anchor="end">20:42</text>
+    <text x="835" y="47" font-size="11" fill="#aaaaaa" text-anchor="end">VPN connected</text>
+    <text x="44" y="179" font-size="10" fill="#aaaaaa" letter-spacing="1">MEDIA</text>
+    <text x="44" y="218" font-size="28">Home</text>
+    <rect x="44" y="249" width="281.333" height="174" rx="4" fill="#343434" stroke="#dddddd"/>
+    <rect x="339.333" y="249" width="281.333" height="174" rx="4" fill="#282828" stroke="#414141"/>
+    <rect x="634.666" y="249" width="281.333" height="174" rx="4" fill="#282828" stroke="#414141"/>
+    <g fill="none" stroke="#eeeeee" stroke-width="1.5" stroke-linejoin="round">
+      <g transform="translate(66 269)">
+        <rect x="3" y="4" width="9" height="26" rx="1"/>
+        <rect x="15" y="4" width="9" height="26" rx="1"/>
+        <path d="M28 5L32 29M6 10H9M18 10H21"/>
+      </g>
+      <g transform="translate(361.333 269)">
+        <rect x="2" y="6" width="30" height="22" rx="4"/>
+        <path d="M14 12L23 17L14 22Z"/>
+      </g>
+      <g transform="translate(656.666 269)">
+        <circle cx="17" cy="17" r="13"/>
+        <path d="M20 5C9 7 9 25 24 27"/>
+      </g>
+    </g>
+    <g font-size="19">
+      <text x="66" y="349">Jellyfin</text>
+      <text x="361.333" y="349">YouTube</text>
+      <text x="656.666" y="349">Moonlight</text>
+    </g>
+    <g font-size="10" fill="#aaaaaa">
+      <text x="66" y="372">Movies &amp; shows</text>
+      <text x="361.333" y="372">Videos</text>
+      <text x="656.666" y="372">Game streaming</text>
+    </g>
+    <g font-size="11" fill="#aaaaaa">
+      <text x="56" y="500">WireGuard</text>
+      <text x="151" y="500">All apps</text>
+      <text x="239" y="500">Settings</text>
+      <text x="904" y="500" text-anchor="end">Home setup</text>
+    </g>
+  </g>
+</svg>
